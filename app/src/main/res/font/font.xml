@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family>
+
+    <item name="android:fontFamily">@font/my_font</item>
+    <item name="android:fontFamily">@font/my_font2</item>
+
+</font-family>

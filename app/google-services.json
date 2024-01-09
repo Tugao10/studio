@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622845453858",
+    "project_id": "samirastudio-e1698",
+    "storage_bucket": "samirastudio-e1698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622845453858:android:77de9e3243b05a657f4c7b",
+        "android_client_info": {
+          "package_name": "com.example.samirastudio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_8DiO8Ny4gBHRYQylOVdUVvrz_gGgm2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

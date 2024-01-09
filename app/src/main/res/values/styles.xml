@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="TextCustomFont">
+        <item name="android:fontFamily">@font/my_font</item>
+        <item name="android:fontFamily">@font/my_font2</item>
+        <!-- Outrotributos de estilo, se necessário -->
+    </style>
+</resources>
